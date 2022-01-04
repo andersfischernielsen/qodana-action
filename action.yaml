@@ -1,4 +1,4 @@
-name: 'Qodana Scan'
+name: 'Qodana Scan (temporary fork)'
 description: 'Scan your projects with Qodana on GitHub. Docs: https://jb.gg/qodana-github-action'
 author: 'JetBrains'
 branding:
